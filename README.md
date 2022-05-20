@@ -6,7 +6,7 @@
 - :school: I am a Pythonist
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: Aiming for Full Stack Web Developer
-- :student: I’m currently doing: Python with Full Stack.
+- :student: I’m currently doing: Salesforce Marketing Cloud , CDP
 - :nerd_face: Always `learning new things`
 
 <br>
